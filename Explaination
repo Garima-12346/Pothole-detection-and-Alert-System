@@ -1,0 +1,10 @@
+This code is for a Pothole Detection and Alert System using an ESP8266 (NodeMCU) microcontroller, a GPS module, and an ultrasonic distance sensor. The system is designed to detect potholes on the road using the distance sensor, record the location and depth of the detected pothole using the GPS module, and then send this information to a Firebase Realtime Database for further processing or analysis. Here's how the code works step by step:
+
+Libraries and Definitions:
+The code starts by including necessary libraries such as ESP8266WiFi for Wi-Fi communication, FirebaseESP8266 for interfacing with the Firebase database, SoftwareSerial for serial communication with the GPS module, and TinyGPS++ for parsing GPS data. It also defines various constants and pin assignments.
+
+Firebase Configuration:
+The Firebase project details are configured using the FIREBASE_HOST (project URL) and FIREBASE_AUTH (database secret) constants. These details are used to establish a connection to the Firebase Realtime Database.
+
+Wi-Fi Connection:
+The ESP8266 connects to the specified Wi-Fi network (WIFI_SSID and WIFI_PASSWORD). The program waits until the connection is established before proceeding.
