@@ -5,7 +5,8 @@ Here is the Overview of Our Project:
 
 
 https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/0b95e60e-33f0-4c7c-9b62-37776a40b5c1
-![App pic SAIG](https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/fad7bcf9-92fa-44cf-be40-700e5bf438f0)
+![App pic SAIG](https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/d9b8be4f-2648-463a-97b1-ae707f423ef2)
+
 
 
 
