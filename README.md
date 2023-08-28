@@ -6,3 +6,4 @@ connected in the system gives the location (longitude and latitude), the WI-FI m
 MCU 8266 is connected to the internet through Wi-Fi now all this detail will be sent from the
 Node MCU to the cloud that is google firebase which then organize the data and send this to
 the municipal authority its easy and efficient as well from the existing system. 
+https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/8f6ffadf-9533-4252-bf1a-a3a7fc67c2d7
