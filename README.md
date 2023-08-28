@@ -14,8 +14,6 @@ Here is the Overview of Our Project:
 
 https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/0b95e60e-33f0-4c7c-9b62-37776a40b5c1
 
-![QR Code of our app](https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/d14f2c53-f2bb-41b4-a387-c885bcf33d89)
-
 
 
 
