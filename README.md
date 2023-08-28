@@ -3,10 +3,10 @@ It is an innovative technological solution aimed at enhancing road safety and ma
 
 Here is the Overview of Our Project:
 
-![App pic SAIG](https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/592e6e7b-e29d-4b40-8936-9907dde2fd72)
-
 
 https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/0b95e60e-33f0-4c7c-9b62-37776a40b5c1
+![App pic SAIG](https://github.com/Garima-12346/Pothole-detection-and-Alert-System/assets/126853460/fad7bcf9-92fa-44cf-be40-700e5bf438f0)
+
 
 
 
